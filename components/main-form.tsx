@@ -98,7 +98,7 @@ export default function MainForm({
       <CardHeader className="text-center">
         <div className="flex items-center justify-center mb-4">
           <LaundryIcon className="h-12 w-12 text-indigo-600" />
-          <CardTitle className="text-2xl font-bold text-indigo-800 ml-3">Sistema de Acesso</CardTitle>
+          <CardTitle className="text-2xl font-bold text-indigo-800 ml-3">Sistema de Acesso BBox Nelson D'Avila</CardTitle>
         </div>
         <CardDescription>Preencha seus dados para gerar a senha da lavanderia.</CardDescription>
       </CardHeader>
